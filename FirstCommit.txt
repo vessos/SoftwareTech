@@ -1,2 +1,3 @@
 Edited!
 So, we should edit here, right?
+Here too, but more nedet is to try macke changes on the VS project and Sync it to Git so others can see the modification.
