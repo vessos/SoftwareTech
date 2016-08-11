@@ -3,3 +3,4 @@ So, we should edit here, right?
 Here too, but more nedet is to try macke changes on the VS project and Sync it to Git so others can see the modification.
 The VS project is in the MASTER branch.
 Ok, I found it!
+we are doing it right!
